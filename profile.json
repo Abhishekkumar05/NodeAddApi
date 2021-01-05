@@ -1,0 +1,10 @@
+{
+   "USER1":{
+   "accessLevel": "admin",
+   "active": true
+   } ,
+   "USER2":{
+    "accessLevel": "user",
+    "active": true
+    } 
+}
